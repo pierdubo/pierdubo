@@ -21,7 +21,7 @@ This is where we code for [Mangroves](https://www.globalmangrovewatch.org/).
 ### Profile
 
 * **MSc** in _Geography_ and Remote Sensing
-* _BSc_ in BS
+* 
 
 ---
 
